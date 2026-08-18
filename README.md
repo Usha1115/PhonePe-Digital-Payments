@@ -114,3 +114,39 @@ Performed correlation analysis to identify relationships between demographic fac
 
 ![Highest Populated Districts](Images/Highest_Populated_Districts.png)
 
+## Project Workflow
+
+**Raw PhonePe Data**
+
+↓
+
+**Data Loading & Understanding**
+
+↓
+
+**Data Cleaning & Validation**
+
+- Checked missing values
+- Checked duplicates and data consistency
+- Performed summary statistics
+
+↓
+
+**Exploratory Data Analysis**
+
+- Transaction analysis
+- App usage analysis
+- Transaction type analysis
+- State and district-level analysis
+- Device brand analysis
+- Population and demographic analysis
+- Correlation analysis
+
+↓
+
+**Data Visualization**
+
+↓
+
+**Key Insights & Findings**
+
