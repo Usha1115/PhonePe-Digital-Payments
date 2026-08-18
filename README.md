@@ -115,7 +115,7 @@ Performed correlation analysis to identify relationships between demographic fac
 ![Highest Populated Districts](Images/Highest_Populated_Districts.png)
 
 ## Project Workflow
-
+```text
 **Raw PhonePe Data**
 
 ↓
@@ -149,4 +149,4 @@ Performed correlation analysis to identify relationships between demographic fac
 ↓
 
 **Key Insights & Findings**
-
+```
