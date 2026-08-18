@@ -96,3 +96,21 @@ Performed correlation analysis to identify relationships between demographic fac
 - The correlation analysis was used to examine the relationship between transaction activity and demographic factors such as population density.
 - Device brand analysis showed that PhonePe users were distributed across multiple mobile device brands.
 
+## Key Visualizations
+
+### App Usage Trend
+
+![App Usage Trend](Images/app_usage_trend.png)
+
+### Transaction and Population Correlation
+
+![Transaction Population Correlation](Images/transaction_population_correlation.png)
+
+### Transaction Type Distribution
+
+![Transaction Type Distribution](Images/transaction_type_distribution.png)
+
+### Highest Populated Districts
+
+![Highest Populated Districts](Images/highest_populated_districts.png)
+
