@@ -100,17 +100,17 @@ Performed correlation analysis to identify relationships between demographic fac
 
 ### App Usage Trend
 
-![App Usage Trend](Images/app_usage_trend.png)
+![App Usage Trend](Images\app_usage_trend.png)
 
 ### Transaction and Population Correlation
 
-![Transaction Population Correlation](Images/transaction_population_correlation.png)
+![Transaction Population Correlation](Images\transaction_population_correlation.png)
 
 ### Transaction Type Distribution
 
-![Transaction Type Distribution](Images/transaction_type_distribution.png)
+![Transaction Type Distribution](Images\transaction_type_distribution.png)
 
 ### Highest Populated Districts
 
-![Highest Populated Districts](Images/highest_populated_districts.png)
+![Highest Populated Districts](Images\highest_populated_districts.png)
 
