@@ -143,3 +143,27 @@ Data Visualization
       ▼
 Key Insights & Findings
 ```
+
+## Python Concepts & Libraries Used
+
+### Libraries
+
+- Pandas – Data manipulation and analysis
+- NumPy – Numerical operations
+- Matplotlib – Data visualization
+- Seaborn – Statistical data visualization
+
+### Python Concepts
+
+- Data Loading and Inspection
+- Data Cleaning
+- Handling Missing Values
+- Removing Duplicates
+- Data Filtering
+- GroupBy and Aggregation
+- Sorting
+- Descriptive Statistics
+- Correlation Analysis
+- Data Visualization
+
+
